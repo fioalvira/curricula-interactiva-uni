@@ -18,4 +18,4 @@ Web app para planificar estudios: tildás materias completadas y se desbloquean 
 bash
 npm install
 npm run dev
-# abrir http://localhost:3000
+abrir http://localhost:__
